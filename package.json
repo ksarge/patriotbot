@@ -1,0 +1,16 @@
+{
+  "name": "patriot",
+  "version": "1.0.0",
+  "description": "spy on ordinary Americans by expanding the authority to monitor phone and discord communications",
+  "main": "patriot.js",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ksarge",
+  "license": "MIT"
+}
